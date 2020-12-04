@@ -20,15 +20,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ef8985-3d95-42de-80fd-4803020c9512" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/russian-travel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__background/cover__background.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__language/_type/header__language_type_active.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__language/header__language.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__links/header__links.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__logo/header__logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__image/_type/lead__image_type_background.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/lead.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/__item/photo-grid__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/place/__image/place__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/place/__link/place__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/place/__paragraph/place__paragraph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/place/__text/place__text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/place/__title/place__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/place/__url-heading/place__url-heading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/place/__website/place__website.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/place/place.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/__logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/altai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/forest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kalegin-michail-179870-unsplash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kolsk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mount2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mount3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mount4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mount5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mounts.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ocean.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/seven.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/snow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/train.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/water.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/wolf.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/page/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +114,12 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vezer\russian-travel\blocks\lead\__image\_type" />
+      <recent name="C:\Users\vezer\russian-travel\blocks\header\__language" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,6 +129,33 @@
       <option name="presentableId" value="Default" />
       <updated>1606421282298</updated>
       <workItem from="1606421283761" duration="1084000" />
+      <workItem from="1606465994838" duration="14289000" />
+      <workItem from="1606811330698" duration="1853000" />
+      <workItem from="1606815144116" duration="1803000" />
+      <workItem from="1606816964088" duration="1559000" />
+      <workItem from="1606827553494" duration="974000" />
+      <workItem from="1606840445545" duration="1799000" />
+      <workItem from="1606842269960" duration="1763000" />
+      <workItem from="1606939347124" duration="1792000" />
+      <workItem from="1606941187618" duration="1794000" />
+      <workItem from="1606942995879" duration="758000" />
+      <workItem from="1607004100800" duration="1789000" />
+      <workItem from="1607005904310" duration="1804000" />
+      <workItem from="1607024799154" duration="1806000" />
+      <workItem from="1607026624417" duration="1791000" />
+      <workItem from="1607077611566" duration="1801000" />
+      <workItem from="1607079471409" duration="4020000" />
+      <workItem from="1607092108051" duration="5660000" />
+      <workItem from="1607100217128" duration="1791000" />
+      <workItem from="1607102022369" duration="1793000" />
+      <workItem from="1607103840709" duration="1650000" />
+      <workItem from="1607105652534" duration="1794000" />
+      <workItem from="1607107462300" duration="1661000" />
+      <workItem from="1607109271813" duration="1794000" />
+      <workItem from="1607111080028" duration="1970000" />
+      <workItem from="1607113065813" duration="1796000" />
+      <workItem from="1607115090963" duration="1800000" />
+      <workItem from="1607116908219" duration="1270000" />
     </task>
     <servers />
   </component>
@@ -89,8 +172,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1607078673918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607078673918" />
   </component>
 </project>

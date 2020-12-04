@@ -1,0 +1,25 @@
+.lead__image{
+    margin:29px auto 0;
+    width: 95%;
+    height: 27vw;
+    background-image: url("../../../images/lead.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 2;
+}
+@media screen and (min-width: 768px){
+    .lead__image{
+        margin: 70px auto 0;
+    }
+}
+@media screen and (min-width: 1024px){
+    .lead__image{
+        margin: 90px auto 0;
+    }
+}
+@media screen and (min-width: 1280px){
+    .lead__image{
+        margin: 160px auto 0;
+    }
+}

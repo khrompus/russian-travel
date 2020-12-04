@@ -1,0 +1,28 @@
+.footer__copyright{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+    margin-top: 48px;
+    margin-bottom: 24px;
+}
+@media screen and (min-width: 768px) {
+    .footer__copyright{
+        margin: 0;
+        padding-left: 69px;
+    }
+
+}
+@media screen and (min-width: 1024px) {
+    .footer__copyright{
+        padding-left: 277px;
+    }
+
+}
+@media screen and (min-width: 1280px) {
+    .footer__copyright{
+        padding-left: 533px;
+    }
+
+}

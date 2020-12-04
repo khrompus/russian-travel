@@ -1,0 +1,25 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    padding-left: 16px;
+    padding-top: 64px;
+}
+
+@media screen and (min-width: 768px) {
+    .footer{
+        flex-direction: row;
+        padding: 88px  24px;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .footer{
+        flex-direction: row;
+        padding: 92px 48px 24px;
+    }
+}
+@media screen and (min-width: 1280px) {
+    .footer{
+        flex-direction: row;
+        padding: 92px 48px 24px;
+    }
+}
