@@ -1,4 +1,4 @@
-.cover__title{
+.cover__title {
     padding: 33px 0 0 0;
     margin: auto;
     text-align: center;
@@ -9,27 +9,30 @@
     line-height: 35px;
     position: relative;
 }
-@media screen  and (min-width: 768px){
-    .cover__title{
+
+@media screen  and (min-width: 768px) {
+    .cover__title {
         font-weight: 900;
         font-size: 72px;
         line-height: 76px;
         padding: 115px 104px 0;
     }
 }
-@media screen  and (min-width: 1024px){
-    .cover__title{
+
+@media screen  and (min-width: 1024px) {
+    .cover__title {
         font-weight: 900;
         font-size: 72px;
         line-height: 76px;
-        padding:195px 232px 0 ;
+        padding: 195px 232px 0;
     }
 }
-@media screen  and (min-width: 1280px){
-    .cover__title{
+
+@media screen  and (min-width: 1280px) {
+    .cover__title {
         font-weight: 900;
         font-size: 72px;
         line-height: 76px;
-        padding:245px 312px 0 ;
+        padding: 245px 312px 0;
     }
 }

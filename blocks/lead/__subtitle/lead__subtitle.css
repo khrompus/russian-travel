@@ -1,4 +1,4 @@
-.lead__subtitle{
+.lead__subtitle {
     font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -9,24 +9,26 @@
 }
 
 @media screen and (min-width: 768px) {
-    .lead__subtitle{
+    .lead__subtitle {
         font-size: 30px;
         line-height: 36px;
         padding: 0 64px;
     }
 }
+
 @media screen and (min-width: 1024px) {
-    .lead__subtitle{
+    .lead__subtitle {
         font-size: 30px;
         line-height: 36px;
-        padding-top:32px;
-        padding-right:192px ;
-        padding-left:192px ;
+        padding-top: 32px;
+        padding-right: 192px;
+        padding-left: 192px;
 
     }
 }
+
 @media screen and (min-width: 1024px) {
-    .lead__subtitle{
+    .lead__subtitle {
         padding: 0 172px;
     }
 }
