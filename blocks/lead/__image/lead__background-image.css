@@ -1,7 +1,7 @@
-.lead__image_type_background{
+.lead__background-image{
     width: 100%;
     height: 62.5vw;
-    background-image: url("../../../../images/kalegin-michail-179870-unsplash.png");
+    background-image: url("../../../images/kalegin-michail-179870-unsplash.png");
     background-position: center;
     background-size: cover;
     margin-top: 40px;
@@ -9,12 +9,12 @@
 
 }
 @media screen and (min-width: 768px) {
-    .lead__image_type_background{
+    .lead__background-image{
         margin-top: 56px;
     }
 }
 @media screen and (min-width: 1280px) {
-    .lead__image_type_background{
+    .lead__background-image{
         margin-top: 64px;
 
     }

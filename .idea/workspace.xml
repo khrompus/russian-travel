@@ -19,10 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ef8985-3d95-42de-80fd-4803020c9512" name="Default Changelist" comment="Added README.md">
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__language/header__language.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__language/header__language.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
+    <list default="true" id="09ef8985-3d95-42de-80fd-4803020c9512" name="Default Changelist" comment="reform code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__image/_type/lead__image_type_background.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__background-image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +67,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vezer\russian-travel\blocks\lead\__image" />
       <recent name="C:\Users\vezer\russian-travel\blocks\lead\__image\_type" />
       <recent name="C:\Users\vezer\russian-travel\blocks\header\__language" />
     </key>
@@ -106,7 +108,7 @@
       <workItem from="1607113065813" duration="1796000" />
       <workItem from="1607115090963" duration="1800000" />
       <workItem from="1607116908219" duration="1874000" />
-      <workItem from="1607118802518" duration="424000" />
+      <workItem from="1607118802518" duration="1094000" />
     </task>
     <task id="LOCAL-00001" summary="End work">
       <created>1607118196202</created>
@@ -122,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607118850072</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="reform code">
+      <created>1607119241295</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607119241295</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,13 +153,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="End work" />
     <MESSAGE value="Added README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added README.md" />
+    <MESSAGE value="reform code" />
+    <option name="LAST_COMMIT_MESSAGE" value="reform code" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1607118865090">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1607119251564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607118865090" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607119251564" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1607078673918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
