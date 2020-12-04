@@ -20,10 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ef8985-3d95-42de-80fd-4803020c9512" name="Default Changelist" comment="reform code">
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black-slnt=0.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black-slnt=0.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black-slnt=0.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black-slnt=0.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black-slnt=0.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular-slnt=0.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular-slnt=0.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular-slnt=0.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular-slnt=0.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular-slnt=0.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular-slnt=0.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/__image/_type/lead__image_type_background.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__background-image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__language/header__language.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__language/header__language.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +121,7 @@
       <workItem from="1607115090963" duration="1800000" />
       <workItem from="1607116908219" duration="1874000" />
       <workItem from="1607118802518" duration="1094000" />
+      <workItem from="1607122440405" duration="1585000" />
     </task>
     <task id="LOCAL-00001" summary="End work">
       <created>1607118196202</created>
