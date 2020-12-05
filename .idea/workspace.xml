@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ef8985-3d95-42de-80fd-4803020c9512" name="Default Changelist" comment="new fonts(1)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Regular-slnt=0.zip" beforeDir="false" />
+    <list default="true" id="09ef8985-3d95-42de-80fd-4803020c9512" name="Default Changelist" comment="new fonts c">
       <change beforePath="$PROJECT_DIR$/fonts/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +108,7 @@
       <workItem from="1607118802518" duration="1094000" />
       <workItem from="1607122440405" duration="1585000" />
       <workItem from="1607124250137" duration="1794000" />
-      <workItem from="1607126065711" duration="321000" />
+      <workItem from="1607126065711" duration="462000" />
     </task>
     <task id="LOCAL-00001" summary="End work">
       <created>1607118196202</created>
@@ -168,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607125399449</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new fonts c">
+      <created>1607126402100</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607126402100</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,13 +198,14 @@
     <MESSAGE value="reform code" />
     <MESSAGE value="new fonts" />
     <MESSAGE value="new fonts(1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="new fonts(1)" />
+    <MESSAGE value="new fonts c" />
+    <option name="LAST_COMMIT_MESSAGE" value="new fonts c" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1607125408507">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1607126406091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607125408507" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607126406091" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1607078673918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
