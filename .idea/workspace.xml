@@ -20,6 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ef8985-3d95-42de-80fd-4803020c9512" name="Default Changelist" comment="new fonts c">
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black-slnt.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black-slnt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black-slnt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular-slnt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular-slnt.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular-slnt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular-slnt.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Black-slnt=0.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Black-slnt=0.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Black-slnt=0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Black-slnt=0.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Regular-slnt=0.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Regular-slnt=0.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Regular-slnt=0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Regular-slnt=0.woff" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fonts/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,6 +124,7 @@
       <workItem from="1607122440405" duration="1585000" />
       <workItem from="1607124250137" duration="1794000" />
       <workItem from="1607126065711" duration="462000" />
+      <workItem from="1607173659749" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="End work">
       <created>1607118196202</created>

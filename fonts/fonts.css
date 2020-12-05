@@ -1,15 +1,15 @@
 @font-face {
     font-family: "Inter";
-    url("Inter-Black-slnt=0.woff") format("woff"),
-    url("Inter-Black-slnt=0.ttf") format("truetype");
+    url("Inter-Black-slnt.woff") format("woff"),
+    url("Inter-Black-slnt.ttf") format("truetype");
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Inter";
-    url("Inter-Regular-slnt=0.woff") format("woff"),
-    url('Inter-Regular-slnt=0.ttf') format("truetype");
+    url("Inter-Regular-slnt.woff") format("woff"),
+    url('Inter-Regular-slnt.ttf') format("truetype");
     font-weight: normal;
     font-style: normal;
 }
