@@ -1,11 +1,12 @@
 .cover__background{
-    background-image: url("../../../images/background.jpg");
+    background-image: url("../../../images/__background.svg");
     min-width: 100%;
     min-height: 62.5vw;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     box-sizing: border-box;
+    object-fit: cover;
 
 }
 .cover__background::before{
@@ -21,3 +22,4 @@
     opacity: .8;
     transition: .8s linear;
 }
+

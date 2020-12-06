@@ -1,22 +1,19 @@
 .header__language {
-    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 20px;
     text-decoration: none;
     color: white;
-    margin-left: 18px;
     text-align: end;
+    transition: .3s linear;
+    padding-left: 18px;
 }
 
-.header__language:first-child {
-    margin-left: 0;
-}
+
 
 .header__language:hover {
     opacity: .8;
-    transition: .4s linear;
 }
 
 @media screen and (min-width: 768px) {

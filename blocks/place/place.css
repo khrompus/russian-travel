@@ -1,0 +1,40 @@
+.place {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-bottom: 49px;
+    margin: 64px auto;
+
+}
+
+.place:last-child {
+    padding-bottom: 0;
+}
+
+@media screen and (min-width: 768px) {
+    .place {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(min-content, max-content));
+        grid-template-rows: repeat(2, minmax(min-content, max-content));
+        gap: 48px 28px;
+        margin: 0;
+        padding-right: 24px;
+        padding-left: 24px;
+    }
+
+}
+
+@media screen and (min-width: 1024px) {
+    .place {
+        gap: 48px 32px;
+        margin: 92px auto;
+        padding-right: 48px;
+        padding-left: 48px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .place {
+        padding: 0 148px;
+    }
+}
