@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ef8985-3d95-42de-80fd-4803020c9512" name="Default Changelist" comment="compressed">
+      <change afterPath="$PROJECT_DIR$/images/__logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/_number/intro__list__number.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list/_number/intro__list_number.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/_number/intro__list_number.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__number/intro__number.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
@@ -67,11 +68,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vezer\russian-travel\blocks\intro\__list\_number" />
+      <recent name="C:\Users\vezer\russian-travel\blocks\intro" />
       <recent name="C:\Users\vezer\russian-travel\blocks" />
       <recent name="C:\Users\vezer\russian-travel\vendor" />
       <recent name="C:\Users\vezer\russian-travel\blocks\lead\__image" />
-      <recent name="C:\Users\vezer\russian-travel\blocks\lead\__image\_type" />
-      <recent name="C:\Users\vezer\russian-travel\blocks\header\__language" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -127,7 +128,7 @@
       <workItem from="1607221295482" duration="1822000" />
       <workItem from="1607223132642" duration="1484000" />
       <workItem from="1607244345676" duration="1610000" />
-      <workItem from="1607246176606" duration="745000" />
+      <workItem from="1607246176606" duration="1109000" />
     </task>
     <task id="LOCAL-00001" summary="End work">
       <created>1607118196202</created>
@@ -262,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607246375431</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="compressed">
+      <created>1607246947694</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1607246947694</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,10 +307,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607207621209" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1607246378916">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1607246950625">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607246378916" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607246950625" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1607078673918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
