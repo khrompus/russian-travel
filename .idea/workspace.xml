@@ -19,18 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ef8985-3d95-42de-80fd-4803020c9512" name="Default Changelist" comment="compressed">
-      <change afterPath="$PROJECT_DIR$/images/__background.jpg" afterDir="false" />
+    <list default="true" id="09ef8985-3d95-42de-80fd-4803020c9512" name="Default Changelist" comment="last iteration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/cover/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/__background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +133,8 @@
       <workItem from="1607279207316" duration="1907000" />
       <workItem from="1607281129877" duration="11000" />
       <workItem from="1607281142502" duration="918000" />
+      <workItem from="1607282089793" duration="660000" />
+      <workItem from="1607290727412" duration="318000" />
     </task>
     <task id="LOCAL-00001" summary="End work">
       <created>1607118196202</created>
@@ -296,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607247537900</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="last iteration">
+      <created>1607282142803</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1607282142803</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +327,8 @@
     <MESSAGE value="review" />
     <MESSAGE value="review code" />
     <MESSAGE value="compressed" />
-    <option name="LAST_COMMIT_MESSAGE" value="compressed" />
+    <MESSAGE value="last iteration" />
+    <option name="LAST_COMMIT_MESSAGE" value="last iteration" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607207621209">
@@ -337,10 +339,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607281139190" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1607247540852">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1607282150181">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607247540852" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607282150181" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1607078673918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
