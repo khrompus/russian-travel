@@ -19,59 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ef8985-3d95-42de-80fd-4803020c9512" name="Default Changelist" comment="new fonts Ru">
-      <change afterPath="$PROJECT_DIR$/blocks/cover/__image/cover__image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__links/footer__links.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/intro/__list/_number/intro__list__number.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/__background.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/__image.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lead.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lead_png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/fonts/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__background/cover__background.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__background/cover__background.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__language/header__language.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__language/header__language.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__links/header__links.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__links/header__links.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/__image/lead__background-image.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/page/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/place/__image/place__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__image/place__image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/place/__link/place__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__link/place__link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/place/__paragraph/place__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/place/__text/place__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__text/place__text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/place/__title/place__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__title/place__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/place/__url-heading/place__url-heading.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__url-heading/place__url-heading.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/place/__website/place__website.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__website/place__website.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/place/place.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/place.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/places.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Black-slnt.otf" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Black-slnt.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Black-slnt.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Black-slnt.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Black-slnt.woff" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Black-slnt.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Regular-slnt.eot" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Regular-slnt.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Regular-slnt.otf" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Regular-slnt.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Regular-slnt.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Regular-slnt.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Regular-slnt.woff" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Regular-slnt.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/lead.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
-    </list>
+    <list default="true" id="09ef8985-3d95-42de-80fd-4803020c9512" name="Default Changelist" comment="review" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,6 +120,7 @@
       <workItem from="1607217648480" duration="1794000" />
       <workItem from="1607219475417" duration="1805000" />
       <workItem from="1607221295482" duration="1822000" />
+      <workItem from="1607223132642" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="End work">
       <created>1607118196202</created>
@@ -250,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607174870275</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="review">
+      <created>1607223175857</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607223175857</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,17 +233,18 @@
     <MESSAGE value="new fonts(1)" />
     <MESSAGE value="new fonts c" />
     <MESSAGE value="new fonts Ru" />
-    <option name="LAST_COMMIT_MESSAGE" value="new fonts Ru" />
+    <MESSAGE value="review" />
+    <option name="LAST_COMMIT_MESSAGE" value="review" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607207621209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607207621209" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1607174893775">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1607223184809">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607174893775" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607223184809" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1607078673918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
