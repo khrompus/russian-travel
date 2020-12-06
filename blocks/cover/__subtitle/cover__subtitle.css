@@ -7,6 +7,7 @@
     z-index: 2;
     margin: 16px 0 0 0;
     justify-content: center;
+    max-width: 288px;
 }
 
 @media screen and (min-width: 768px){
@@ -14,5 +15,6 @@
         font-size: 18px;
         line-height: 22px;
         margin-top: 32px;
+        max-width: 360px;
     }
 }
